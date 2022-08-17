@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-cunningham
-- 👀 I’m interested in wildlife ecology, population modeling, machine learning. 
-- 🌱 I predominately use R for analysis, but am starting to learn Python.
+- 👀 I’m interested in wildlife ecology, population modeling, survival analysis, and machine learning (especially in context of behavior classification from accelerometer data). 
+- 🌱 I predominately use R for analysis, but am starting to learn Python. Got any tips or good resources?
 
 
 <!---
