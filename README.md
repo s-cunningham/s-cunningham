@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s-cunningham
-- 👀 I’m interested in wildlife ecology, population modeling, survival analysis, and machine learning (especially in context of behavior classification from accelerometer data). 
+- 👀 I’m interested in wildlife ecology, population modeling, survival analysis, and machine learning. 
 - :mortar_board: I am currently in my final year as a PhD student. 
     - :deciduous_tree: Investigating survival and reproduction, and links to landscape gradients, in fishers (*Pekania pennanti*) in northern New York.
     - :rat: Statewide examination of rodenticide exposure in fishers.
