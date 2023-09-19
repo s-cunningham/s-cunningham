@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s-cunningham
-- Currently a postdoctoral associate as Mississippi State University. Work focused on cattle behavior and movement 🐄
+- Currently a postdoctoral associate at Mississippi State University. Work focused on cattle behavior and movement 🐄
 
 
 <!---
