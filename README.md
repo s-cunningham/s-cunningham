@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s-cunningham
-- Currently a postdoctoral associate at Mississippi State University. Work focused on cattle behavior and movement 🐄
-- I like population models and animal movement/behavior. 
+- Currently a postdoctoral associate at Mississippi State University. 
+- 👀 I’m interested in wildlife ecology, population modeling, survival analysis, and machine learning. 
 
 
 <!---
